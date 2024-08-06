@@ -1,0 +1,1 @@
+In this notebook, we are studying simple financal metrics like Volume-Weighted Average Price, Std and OHLC on different Bitcoin exchanges during 24h. The purpose is to train ourself in Python coding.
